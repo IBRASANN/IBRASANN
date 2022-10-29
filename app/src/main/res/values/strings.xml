@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="compute_tax">compute_tax</string>
+    <string name="choose_country">choose_country</string>
+    <string name="enter_price">enter_price</string>
+    <string name="result">result</string>
+    <string name="Ok">Ok</string>
+</resources>
